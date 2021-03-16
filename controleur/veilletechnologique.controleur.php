@@ -1,0 +1,1 @@
+<?php require "vue/veilletechnologique.php"; ?>

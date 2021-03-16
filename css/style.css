@@ -1,0 +1,38 @@
+p
+{
+    color: white;
+}
+h1
+{
+	text-shadow: 2px 2px 4px white;
+}
+a
+{
+	color: white;
+}
+ul
+{
+	color: white;
+}
+span
+{
+	color: white;
+}
+span
+{
+	text-shadow: 2px 2px 4px black;
+}
+br
+{
+	text-shadow: 4px 4px 6px black;
+}
+s /* Apparence standard */
+{
+	text-decoration: none;
+}
+
+s:hover /* Apparence au survol des liens */
+{
+   text-decoration: underline;
+   color: white;
+}
